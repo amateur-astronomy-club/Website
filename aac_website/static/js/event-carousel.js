@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 var slides = document.querySelectorAll('.slide');
     var btns = document.querySelectorAll('.btn');
     let currentSlide = 1;
@@ -50,7 +49,6 @@ var slides = document.querySelectorAll('.slide');
       }
       repeater();
     }
-=======
 var slides = document.querySelectorAll('.slide');
     var btns = document.querySelectorAll('.btn');
     let currentSlide = 1;
@@ -102,5 +100,4 @@ var slides = document.querySelectorAll('.slide');
       }
       repeater();
     }
->>>>>>> 2e81c0f2e07b77f4205f065bf060384c69eec4b1
     repeat();

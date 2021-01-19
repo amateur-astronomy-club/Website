@@ -1,7 +1,6 @@
 from django.db import models
 
 # Create your models here.
-<<<<<<< HEAD
 class Tag(models.Model):
 	id = models.BigAutoField(primary_key=True)
 	name=models.CharField(max_length=150)
@@ -24,5 +23,3 @@ class Project(models.Model):
     def __str__(self):
     	return self.name
 
-=======
->>>>>>> 2e81c0f2e07b77f4205f065bf060384c69eec4b1
